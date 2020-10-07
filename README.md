@@ -14,4 +14,14 @@
 ## Quick Overview of the Dataset
 1. Data is downloaded from following source: 
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+2. Feature names are present in UCI_HAR_dataset/features.txt
+3. Train Data
+  a) UCI_HAR_dataset/train/X_train.txt
+  b) UCI_HAR_dataset/train/subject_train.txt
+  c) UCI_HAR_dataset/train/y_train.txt
+4. Test Data
+  a) UCI_HAR_dataset/test/X_test.txt
+  b) UCI_HAR_dataset/test/subject_test.txt
+  c) UCI_HAR_dataset/test/y_test.txt
+
 

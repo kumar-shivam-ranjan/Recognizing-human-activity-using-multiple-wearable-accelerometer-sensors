@@ -16,15 +16,12 @@
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 + Feature names are present in UCI_HAR_dataset/features.txt
 + Train Data
-  + UCI_HAR_dataset/train/X_train.txt
-  + b) UCI_HAR_dataset/train/subject_train.txt
-  + c) UCI_HAR_dataset/train/y_train.txt
+  + `UCI_HAR_dataset/train/X_train.txt`
+  + `UCI_HAR_dataset/train/subject_train.txt`
+  + `UCI_HAR_dataset/train/y_train.txt`
 + Test Data
-  + UCI_HAR_dataset/test/X_test.txt
-  + UCI_HAR_dataset/test/subject_test.txt
-  + UCI_HAR_dataset/test/y_test.txt
+  + `UCI_HAR_dataset/test/X_test.txt`
+  + `UCI_HAR_dataset/test/subject_test.txt`
+  + `UCI_HAR_dataset/test/y_test.txt`
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
 

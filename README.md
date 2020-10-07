@@ -16,7 +16,7 @@
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 2. Feature names are present in UCI_HAR_dataset/features.txt
 3. Train Data
-  a) UCI_HAR_dataset/train/X_train.txt
+..* a) UCI_HAR_dataset/train/X_train.txt
   b) UCI_HAR_dataset/train/subject_train.txt
   c) UCI_HAR_dataset/train/y_train.txt
 4. Test Data

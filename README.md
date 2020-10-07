@@ -33,4 +33,7 @@ https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartph
 - Laying
 ## LSTM architecture that will solve HAR problem
 ![Picture1](https://user-images.githubusercontent.com/42781233/95282887-fe915580-0877-11eb-8b3d-3ab3c55f1801.jpg)
-
+### Project Contributors
+- Kumar Shivam Ranjan
+- Neha Kumari
+- Madhav Bansal

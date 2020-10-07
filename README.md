@@ -12,17 +12,17 @@
 4. The data were recorded at the constant  frequency of **50Hz**  (50 data points  were recorded each second ) 
 
 ## Quick Overview of the Dataset
-- Data is downloaded from following source: 
++ Data is downloaded from following source: 
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
-- Feature names are present in UCI_HAR_dataset/features.txt
-- Train Data
-- UCI_HAR_dataset/train/X_train.txt
-..* b) UCI_HAR_dataset/train/subject_train.txt
-..* c) UCI_HAR_dataset/train/y_train.txt
-4. Test Data
-  a) UCI_HAR_dataset/test/X_test.txt
-  b) UCI_HAR_dataset/test/subject_test.txt
-  c) UCI_HAR_dataset/test/y_test.txt
++ Feature names are present in UCI_HAR_dataset/features.txt
++ Train Data
+  + UCI_HAR_dataset/train/X_train.txt
+  + b) UCI_HAR_dataset/train/subject_train.txt
+  + c) UCI_HAR_dataset/train/y_train.txt
++ Test Data
+  + UCI_HAR_dataset/test/X_test.txt
+  + UCI_HAR_dataset/test/subject_test.txt
+  + UCI_HAR_dataset/test/y_test.txt
 
 1. First ordered list item
 2. Another item

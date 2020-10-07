@@ -10,3 +10,8 @@
 2. The two smartphone sensors captured the  **3 axial linear acceleration** as well as the  **3 axial angular velocity** of the subject.
 3. The sensor signals were sampled in fixed-width sliding windows of **2.56 sec** and **50% overlap** (128 readings/window).
 4. The data were recorded at the constant  frequency of **50Hz**  (50 data points  were recorded each second ) 
+
+## Quick Overview of the Dataset
+1. Data is downloaded from following source: 
+https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+

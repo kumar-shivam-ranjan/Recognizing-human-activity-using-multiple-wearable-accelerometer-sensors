@@ -24,4 +24,7 @@ https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartph
   b) UCI_HAR_dataset/test/subject_test.txt
   c) UCI_HAR_dataset/test/y_test.txt
 
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
 

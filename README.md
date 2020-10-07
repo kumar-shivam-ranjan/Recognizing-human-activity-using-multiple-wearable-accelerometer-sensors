@@ -23,5 +23,13 @@ https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartph
   + `UCI_HAR_dataset/test/X_test.txt`
   + `UCI_HAR_dataset/test/subject_test.txt`
   + `UCI_HAR_dataset/test/y_test.txt`
+## Problem Statement 
+### Predict one of the following six activities that a Smartphone user is performing at that 2.56 Seconds time window by using either 561 feature data or raw features of 128 reading.
+- Walking
+- Walking Upstairs
+- Walking Downstairs
+- Sitting
+- Standing
+- Laying
 
 
